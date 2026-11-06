@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment tracking
+wandb/
+
+# Model weights and checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Secrets
+.env
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
