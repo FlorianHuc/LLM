@@ -12,6 +12,7 @@ Installed by uv, with versions locked in `uv.lock`:
 - PyTorch (CPU build)
 - JupyterLab and ipykernel
 - NumPy
+- Weights & Biases (`uv run wandb login` to log runs)
 
 ## Setup
 
